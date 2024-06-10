@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.12.0] /home/oleg-isart/.gradle/caches/transforms-4/401008249ebc804de07529fa42af896a/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/oleg-isart/.gradle/caches/transforms-4/fd31f0133c863f711c1830f36286d1e0/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/oleg-isart/.gradle/caches/transforms-4/46452893ad658f912de7f3c6aacd0b21/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/oleg-isart/.gradle/caches/transforms-4/d471970c46c6e94a3310fb21bcd3ba27/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5c1b6ba69d18e32c27a6997365d9f917/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/oleg-isart/.gradle/caches/transforms-4/d8b243ced3b0d3486ab0f9370e206f68/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/oleg-isart/.gradle/caches/transforms-4/892fa5780b306da7e2e575801dcdaddd/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/oleg-isart/.gradle/caches/transforms-4/425feb3ad795eda6dea073c7c952cc2b/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/0ecfa9dec36cc064c026a129b0922b8e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] /home/oleg-isart/.gradle/caches/transforms-4/83e213bdfacf4790d32119a6f4806a69/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/69ff9481121ed8dd303a091eec030596/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/b3e07f51d30b559eb283677f2811e888/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/bf568b76ccca34668bbbe101b04169ce/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/b094c24b8b7f4e957961bb6ea7437f4e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/36c0167ed70896a0e5da9e1084323fda/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/8fe5c39daba27ecccf1f2a7e0ea9c626/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/704a44ed61950c929c2e9b7fc9054084/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/7fb12d31a3b674b464b91c8c19bc95de/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/1fc8b019e01d09d7e8241224f06b8273/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/2f2057d56cfeeaacd2139111d48af7bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/ac8c8af55493dd1d833a9f9430e9a190/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/10b373561ad690c28557e06dbcfd253c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/c4647428cdbe1038a096367aad95dc49/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/8b1577409944b0711f493b3cf1b0f120/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/753a58fb36837b4c23a80f3b37022f54/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/ff88e32b1f8b0bed3df2184175e19470/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/201950c4bff2fa1540bf9cefd6286e7c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/83bcc57c4cbc5f8b8cb867d0ea06a3b0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5da1acb7878a9b887b3e1788e95dbf4a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/85d33a175e2c3cc2711ed7e26ff9d778/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/535f5600a95e609be73cb934da84c882/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/oleg-isart/.gradle/caches/transforms-4/274199226dbe3633dd97a2957704a3d3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/07517d54ae39520025fd1f6a1735962d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/ac2fd2bb0c3e3f32d6bedca3ac02c512/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5068bb686e24cc839ef8c23c343c5a7c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/oleg-isart/.gradle/caches/transforms-4/925069ea96873253d259fd02b915bda9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:5:5-14:32
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:5:5-14:32
+MERGED from [com.google.android.material:material:1.12.0] /home/oleg-isart/.gradle/caches/transforms-4/401008249ebc804de07529fa42af896a/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/oleg-isart/.gradle/caches/transforms-4/401008249ebc804de07529fa42af896a/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/oleg-isart/.gradle/caches/transforms-4/46452893ad658f912de7f3c6aacd0b21/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/oleg-isart/.gradle/caches/transforms-4/46452893ad658f912de7f3c6aacd0b21/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/85d33a175e2c3cc2711ed7e26ff9d778/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/85d33a175e2c3cc2711ed7e26ff9d778/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:13:9-45
+	android:dataExtractionRules
+		ADDED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml:7:9-65
+uses-sdk
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /home/oleg-isart/.gradle/caches/transforms-4/401008249ebc804de07529fa42af896a/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/oleg-isart/.gradle/caches/transforms-4/401008249ebc804de07529fa42af896a/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/oleg-isart/.gradle/caches/transforms-4/fd31f0133c863f711c1830f36286d1e0/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/oleg-isart/.gradle/caches/transforms-4/fd31f0133c863f711c1830f36286d1e0/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/oleg-isart/.gradle/caches/transforms-4/46452893ad658f912de7f3c6aacd0b21/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/oleg-isart/.gradle/caches/transforms-4/46452893ad658f912de7f3c6aacd0b21/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/oleg-isart/.gradle/caches/transforms-4/d471970c46c6e94a3310fb21bcd3ba27/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/oleg-isart/.gradle/caches/transforms-4/d471970c46c6e94a3310fb21bcd3ba27/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5c1b6ba69d18e32c27a6997365d9f917/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5c1b6ba69d18e32c27a6997365d9f917/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/oleg-isart/.gradle/caches/transforms-4/d8b243ced3b0d3486ab0f9370e206f68/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/oleg-isart/.gradle/caches/transforms-4/d8b243ced3b0d3486ab0f9370e206f68/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/oleg-isart/.gradle/caches/transforms-4/892fa5780b306da7e2e575801dcdaddd/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/oleg-isart/.gradle/caches/transforms-4/892fa5780b306da7e2e575801dcdaddd/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/oleg-isart/.gradle/caches/transforms-4/425feb3ad795eda6dea073c7c952cc2b/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/oleg-isart/.gradle/caches/transforms-4/425feb3ad795eda6dea073c7c952cc2b/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/0ecfa9dec36cc064c026a129b0922b8e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/0ecfa9dec36cc064c026a129b0922b8e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/oleg-isart/.gradle/caches/transforms-4/83e213bdfacf4790d32119a6f4806a69/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/oleg-isart/.gradle/caches/transforms-4/83e213bdfacf4790d32119a6f4806a69/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/69ff9481121ed8dd303a091eec030596/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/69ff9481121ed8dd303a091eec030596/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/b3e07f51d30b559eb283677f2811e888/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/b3e07f51d30b559eb283677f2811e888/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/bf568b76ccca34668bbbe101b04169ce/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/bf568b76ccca34668bbbe101b04169ce/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/b094c24b8b7f4e957961bb6ea7437f4e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/b094c24b8b7f4e957961bb6ea7437f4e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/36c0167ed70896a0e5da9e1084323fda/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/36c0167ed70896a0e5da9e1084323fda/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/8fe5c39daba27ecccf1f2a7e0ea9c626/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/8fe5c39daba27ecccf1f2a7e0ea9c626/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/704a44ed61950c929c2e9b7fc9054084/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/704a44ed61950c929c2e9b7fc9054084/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/7fb12d31a3b674b464b91c8c19bc95de/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/7fb12d31a3b674b464b91c8c19bc95de/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/1fc8b019e01d09d7e8241224f06b8273/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/1fc8b019e01d09d7e8241224f06b8273/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/2f2057d56cfeeaacd2139111d48af7bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/2f2057d56cfeeaacd2139111d48af7bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/ac8c8af55493dd1d833a9f9430e9a190/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/ac8c8af55493dd1d833a9f9430e9a190/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/10b373561ad690c28557e06dbcfd253c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/10b373561ad690c28557e06dbcfd253c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/c4647428cdbe1038a096367aad95dc49/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/c4647428cdbe1038a096367aad95dc49/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/8b1577409944b0711f493b3cf1b0f120/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/8b1577409944b0711f493b3cf1b0f120/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/753a58fb36837b4c23a80f3b37022f54/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/753a58fb36837b4c23a80f3b37022f54/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/ff88e32b1f8b0bed3df2184175e19470/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/oleg-isart/.gradle/caches/transforms-4/ff88e32b1f8b0bed3df2184175e19470/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/201950c4bff2fa1540bf9cefd6286e7c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/201950c4bff2fa1540bf9cefd6286e7c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/83bcc57c4cbc5f8b8cb867d0ea06a3b0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/83bcc57c4cbc5f8b8cb867d0ea06a3b0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5da1acb7878a9b887b3e1788e95dbf4a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5da1acb7878a9b887b3e1788e95dbf4a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/85d33a175e2c3cc2711ed7e26ff9d778/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/85d33a175e2c3cc2711ed7e26ff9d778/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/535f5600a95e609be73cb934da84c882/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/535f5600a95e609be73cb934da84c882/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/oleg-isart/.gradle/caches/transforms-4/274199226dbe3633dd97a2957704a3d3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/oleg-isart/.gradle/caches/transforms-4/274199226dbe3633dd97a2957704a3d3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/07517d54ae39520025fd1f6a1735962d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/07517d54ae39520025fd1f6a1735962d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/ac2fd2bb0c3e3f32d6bedca3ac02c512/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/ac2fd2bb0c3e3f32d6bedca3ac02c512/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5068bb686e24cc839ef8c23c343c5a7c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/oleg-isart/.gradle/caches/transforms-4/5068bb686e24cc839ef8c23c343c5a7c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/oleg-isart/.gradle/caches/transforms-4/925069ea96873253d259fd02b915bda9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/oleg-isart/.gradle/caches/transforms-4/925069ea96873253d259fd02b915bda9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/oleg-isart/AndroidStudioProjects/TaskOne2/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oleg-isart/.gradle/caches/transforms-4/d90906ad6f838597bbb5696903d291ef/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/oleg-isart/.gradle/caches/transforms-4/c0dbe4f32fcd8125deb20ad164590256/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/oleg-isart/.gradle/caches/transforms-4/abb4b6a05c8a43c3654c45d00ca7edfc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.taskone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.taskone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/oleg-isart/.gradle/caches/transforms-4/64e09368252226080a279c29bc238362/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/oleg-isart/.gradle/caches/transforms-4/7278c370234278a19537f17f39509b55/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
